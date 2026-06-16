@@ -1,8 +1,4 @@
-Got it — you want the **same structure pattern as your Portfolio README**, just with emojis added cleanly and no duplication or extra changes.
 
-Here is your **final clean README.md version (copy-paste ready):**
-
-````markdown
 # 📚 Bookstore API
 
 A simple RESTful API for managing a book collection. Built with Flask and SQLAlchemy.
@@ -126,7 +122,7 @@ http://127.0.0.1:5000/books
 }
 ```
 
----
+```
 
 ### 📚 Get All Books
 
@@ -174,7 +170,7 @@ http://127.0.0.1:5000/books
 }
 ```
 
----
+```
 
 ### ✏️ Update Book
 
@@ -196,7 +192,7 @@ http://127.0.0.1:5000/books
 }
 ```
 
----
+```
 
 ### 🗑️ Delete Book
 
