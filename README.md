@@ -2,22 +2,22 @@
 A simple RESTful API for managing a 📖 book collection. Built with 🌶️ Flask and 🗄️ SQLAlchemy.
 ________________________________________
 ✨🔥 Features
-•	📖 Book Management – Store and manage book records 🗂️
-•	➕ Create Books – Add new books to the collection 📚
-•	📚 View All Books – Retrieve all available books 📦
-•	🔍 Get Single Book – Fetch book details by ID 🆔
-•	✏️ Update Books – Modify existing book information 🛠️
-•	🗑️ Delete Books – Remove books from the database ❌
-•	🗄️ SQLite Database – Lightweight storage system 💾
-•	🌐 RESTful API Design – Clean and structured endpoints ⚡
-________________________________________
-🛠️💻 Technologies Used
-•	🐍 Python 3.x
-•	🌶️ Flask – Web framework 🌐
-•	🗄️ Flask-SQLAlchemy – Database ORM 🔗
-•	💾 SQLite – Database engine 📦
-•	🔐 python-dotenv – Environment variables config ⚙️
-________________________________________
+-	📖 Book Management – Store and manage book records 🗂️
+-	➕ Create Books – Add new books to the collection 📚
+-	📚 View All Books – Retrieve all available books 📦
+-	🔍 Get Single Book – Fetch book details by ID 🆔
+-	✏️ Update Books – Modify existing book information 🛠️
+-	🗑️ Delete Books – Remove books from the database ❌
+-	🗄️ SQLite Database – Lightweight storage system 💾
+-	🌐 RESTful API Design – Clean and structured endpoints ⚡
+```
+## 🛠️💻 Technologies Used
+-	🐍 Python 3.x
+-	🌶️ Flask – Web framework 🌐
+-	🗄️ Flask-SQLAlchemy – Database ORM 🔗
+-	💾 SQLite – Database engine 📦
+-	🔐 python-dotenv – Environment variables config ⚙️
+```
 ⚙️🚀 How to Run Locally
 📋 Prerequisites 🧾
 •	🐍 Python 3.x installed
