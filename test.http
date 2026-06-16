@@ -1,0 +1,28 @@
+### Create a book
+POST http://127.0.0.1:5000/books
+Content-Type: application/json
+
+{
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "price": 15.99,
+    "isbn": "9780735211292",
+    "publishedDate": "2018-10-16"
+}
+
+### Get all books
+GET http://127.0.0.1:5000/books
+
+### Get a single book (ID: 1)
+GET http://127.0.0.1:5000/books/1
+
+### Update a book (ID: 1)
+PUT http://127.0.0.1:5000/books/1
+Content-Type: application/json
+
+{
+    "price": 12.99
+}
+
+### Delete a book (ID: 1)
+DELETE http://127.0.0.1:5000/books/1
